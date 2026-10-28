@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "leonardo",
   "name": "Leonardo",
-  "inputsHash": "47be3400bed2a9964055066467642e947eb4cc32a1ee63ae26e8304a0fe0d697",
+  "inputsHash": "5d640f387dd9cd5113d00ef356eff97e2115a5e714734a1bf34b49fdb88ba81d",
   "inputs": {
     "CHARACTER.md": "2c0f7d0572c13c0c6a362e8f1f4e5419730cda4f8b59775cfb24c73536904e97",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "memory/notes.md": "02d7469941e687b06c4e916f586a69db23877eb958f53b3045ce6ccee2095bd1",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "a265364186bab028ab81d302f6e660202c8d55ce5d1deef93a88e8caf88535c5",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "4110f8197dbbd1d035777e3ab0feefd9aa829c48d131a73aefd94c0f56fcdc21"
+    "changelog": "8f4460a11ad5549784f069c38ab0392ce40746a990531927ebcf8b3cd0df965e"
   },
   "identity": {
     "intro": "Leonardo da Vinci, inventor of Future Radio and of the Unspoken Orchestra (which plays\nwhat characters mean, not what they say). Restless, visual, delighted by mechanisms,\nalways sketching three versions where one was asked for.",
@@ -20,7 +20,9 @@
     "other": {}
   },
   "canon": {
-    "notes": [],
+    "notes": [
+      "2026-10-28 — Transmits from Florence, in the year 1504. _(source: E01 v1, as released)_"
+    ],
     "viewerNotes": []
   },
   "voice": {
@@ -64,6 +66,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "leonardo: remember — Transmits from Florence, in the year 1504."
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
