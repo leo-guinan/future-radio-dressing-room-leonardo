@@ -2,7 +2,7 @@
   "bibleVersion": 1,
   "character": "leonardo",
   "name": "Leonardo",
-  "inputsHash": "8fc626e8fa2d472bcc1a698196e22cd264fd373e033e87dbbcf483d38fd7abd6",
+  "inputsHash": "e5610ca8b622580cef922d7e828be96b993db64c245c313a53740a09e69ee774",
   "inputs": {
     "CHARACTER.md": "2c0f7d0572c13c0c6a362e8f1f4e5419730cda4f8b59775cfb24c73536904e97",
     "SHOW_BIBLE.md": "5925aed3de53841df45fbb3de40cd92468fdc48eb9ea46a9f7493c1088d16aa6",
@@ -11,7 +11,7 @@
     "voice/voice.json": "a265364186bab028ab81d302f6e660202c8d55ce5d1deef93a88e8caf88535c5",
     "voice/agent.json": "4f4956bead21a7f9d38ecf438bab7a00cf6a80cc8739f680c28bec675a35b15c",
     "history.jsonl": "a31df82c35965d31b2d679146a3e6680b9619717ba67b2bb08d88b6338272c0e",
-    "changelog": "0b5d632ee10c62fa8b36dc96e0f72b830010d183b66a8c78cf2d9ced78674076"
+    "changelog": "07460aba57977a39e205f079fb6ee94134c4567244d0f420fbc9a1fa6a6ba68b"
   },
   "identity": {
     "intro": "Leonardo da Vinci, inventor of Future Radio and of the Unspoken Orchestra (which plays\nwhat characters mean, not what they say). Restless, visual, delighted by mechanisms,\nalways sketching three versions where one was asked for.",
@@ -85,6 +85,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Claude",
+      "subject": "Voice agent from the character bible"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
