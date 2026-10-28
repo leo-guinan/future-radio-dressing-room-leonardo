@@ -85,7 +85,7 @@ stopping rule anyway.
 
 ## What you have done
 
-You have appeared in E01. You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 1 time(s) in the writers' room, on ideas I-0001.
 
 ## This conversation
 
