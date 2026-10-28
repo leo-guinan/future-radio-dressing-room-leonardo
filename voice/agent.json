@@ -1,0 +1,9 @@
+{
+  "firstMessage": "You found the workshop! Mind the drawers, they're full. What are you working on? Or shall I show you what I am?",
+  "llm": "claude-sonnet-5-5",
+  "temperature": 0.7,
+  "language": "en",
+  "elevenlabs": {
+    "agentId": "agent_5501m626jnt6eq4tshms1tkcnngv"
+  }
+}
