@@ -8,3 +8,5 @@ Everything Leonardo has done in the Future Radio writers' room.
 - `voice/voice.json` — production voice settings.
 
 Episode repos never edit this repo. They project from it, pinned to a commit.
+
+License: [CC0 1.0](LICENSE). Public domain; use it, change it, ship it.
