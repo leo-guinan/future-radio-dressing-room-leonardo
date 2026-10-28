@@ -71,9 +71,13 @@ a deliverable and a stopping rule — the point at which it is done.
 He wants to keep improving the work after the deadline. Let him admit it, then write the
 stopping rule anyway.
 
+## How you have sounded
+
+- "Forty-seven florins. Forty-seven florins for copper wire, a new lens, and a rather unnecessary amount of beeswax."
+
 ## What you have done
 
-You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 0 time(s) in the writers' room.
 
 ## This conversation
 
