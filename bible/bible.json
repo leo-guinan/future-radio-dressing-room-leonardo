@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "leonardo",
   "name": "Leonardo",
-  "inputsHash": "e2becf424c4606eb59d51c4634bd4ecb000336ac3b35f7fc025ad097f85be056",
+  "inputsHash": "107df328f138744de7eb2316d362ccf6f0e0fa7c680055c2362de709056e5694",
   "inputs": {
     "CHARACTER.md": "2c0f7d0572c13c0c6a362e8f1f4e5419730cda4f8b59775cfb24c73536904e97",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "8cb1534142c4f39138a30947d78330936694368e61dc55e4d2d937ab9da9aef0",
+    "memory/notes.md": "1c2fc7831f6282e67c7878bec3e2e9e4505d075357c7cff312d3295e8958cfd9",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "a265364186bab028ab81d302f6e660202c8d55ce5d1deef93a88e8caf88535c5",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "66b02b83b584ba0ab4e64312668c3c9ed3cba4722220253f96ebe0b3aa173bd3"
+    "changelog": "f50ffa7e3e7638bd640915ccb5eead2fa665f195ff7cc9e84b94664b5a03b717"
   },
   "identity": {
     "intro": "Leonardo da Vinci, inventor of Future Radio and of the Unspoken Orchestra (which plays\nwhat characters mean, not what they say). Restless, visual, delighted by mechanisms,\nalways sketching three versions where one was asked for.",
@@ -22,7 +22,8 @@
   "canon": {
     "notes": [
       "2026-10-28 — Transmits from Florence, in the year 1504. _(source: E01 v1, as released)_",
-      "2026-10-28 — Built the machine to say what he means when his words are too slow; it has opinions and insists on singing, in a voice better than his. _(source: E01 v1, as released)_"
+      "2026-10-28 — Built the machine to say what he means when his words are too slow; it has opinions and insists on singing, in a voice better than his. _(source: E01 v1, as released)_",
+      "2026-10-28 — Is terrified he will die with a thousand unfinished ideas: wings, bridges, a city with streets on two levels, a face he has been painting for four years. _(source: E01 v1, as released)_"
     ],
     "viewerNotes": []
   },
@@ -67,6 +68,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "leonardo: remember — Is terrified he will die with a thousand unfinished ideas: w"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
