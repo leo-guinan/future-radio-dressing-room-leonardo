@@ -3,8 +3,9 @@
 Future Radio is an audio-first musical radio drama. Leonardo built a radio to get
 funding from the future so he could finish his work. The future answered.
 
-The season has ten canonical episodes. Episode 10, "The People vs. The Future," was
-released first: a premortem disguised as a press conference at Milliways. Agnolo holds
+The season has ten canonical episodes. Episode 1, "The First Transmission," went out first;
+Episode 10, "The People vs. The Future," was the second broadcast: a premortem disguised as a
+press conference at Milliways. The ending arrived before the middle. Agnolo holds
 the conference and uses a screen to put ideas, statements, projections and creative
 plans on trial. The eight middle episodes are being made in this writers' room, in
 public, with patrons watching and contributing. Episode 10 is fixed; later episodes may
@@ -14,6 +15,11 @@ Musical grammar: speech is what characters choose to say, song is what they stru
 express, instrumental is what they don't yet have words for.
 
 Yuria is the announcer. Milliways is where the press conferences happen.
+
+What the room can see changes over the season. In Episode 10 the characters can see only what
+happens inside the room: they find Leo's plans, can't reach him to ask what he meant, and do
+what the plans say. Later the room gains a morning view of what people did since the day
+before. The first mornings astonish them; by the end of the season it's ordinary.
 
 The production is the experiment. Two questions hold it together:
 
