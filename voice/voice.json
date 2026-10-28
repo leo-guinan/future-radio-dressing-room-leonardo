@@ -1,5 +1,7 @@
 {
   "character": "leonardo",
-  "provider": null,
-  "voice": null
+  "provider": "elevenlabs",
+  "name": "Leonardo — Infinite Overture",
+  "id": "s5t7B6IvxVOp3Y7HQT6Q",
+  "kind": "designed"
 }
